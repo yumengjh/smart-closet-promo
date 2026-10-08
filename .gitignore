@@ -1,0 +1,10 @@
+node_modules/
+out/
+# Real wardrobe and person assets are exported locally by `npm run assets`.
+public/garments/
+public/sources/
+public/person/
+src/data/assets.json
+.DS_Store
+# Pixabay Content License forbids redistributing the track standalone; fetch it with `npm run music`.
+public/music/
